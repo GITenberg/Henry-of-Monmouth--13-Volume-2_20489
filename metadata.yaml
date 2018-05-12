@@ -1,0 +1,31 @@
+_repo: Henry-of-Monmouth--13-Volume-2_20489
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tyler, James Endell
+    aliases:
+    - Tyler, J. E. (James Endell)
+    - Tyler, J. Endell
+    birthdate: 1789
+    deathdate: 1851
+    gutenberg_agent_id: '5358'
+    url: http://www.gutenberg.org/2009/agents/5358
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2007-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Henry V, King of England, 1387-1422'
+- !lcc 'DA'
+title: "Henry of Monmouth\r\nOr, Memoirs of the Life and Character of Henry the Fifth,\
+  \ as Prince of Wales and King of England\r\nVolume 2"
+url: http://www.gutenberg.org/ebooks/20489
