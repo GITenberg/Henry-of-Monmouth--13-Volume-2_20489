@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '5358'
     url: http://www.gutenberg.org/2009/agents/5358
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20489#Henry-of-Monmouth--13-Volume-2
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2007-01-31'
 gutenberg_type: Text
